@@ -43,3 +43,8 @@ Please submit PR with updates to the information above.
 Enjoy!
 
 (c) PepperSec.com / The MIT Licence.
+
+
+***
+### Zeemz Development Donations
+Ethereum: [0x7530E6D7F3eE146222c9A0727C361007439fbFd7](https://etherscan.io/address/0x7530e6d7f3ee146222c9a0727c361007439fbfd7)
